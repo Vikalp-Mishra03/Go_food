@@ -1,8 +1,11 @@
 import './App.css';
+import Home from './screens/Home';
 
 function App() {
   return (
-   <span>Hello world</span>
+    <>
+      <Home />
+    </>
   );
 }
 
